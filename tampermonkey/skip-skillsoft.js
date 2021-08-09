@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Skip skillport videos
+// @name         Skip skillsoft
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  try to take over the world!
+// @description  Skip training videos on Skillsoft
 // @author       Ruya Gong
 // @match        https://library.skillport.com/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
