@@ -36,8 +36,8 @@
     btn.addEventListener('click', () => {
         maybeSkipMedia();
     });
-    document.addEventListener("keypress", (e) => {
-        if (e.key === 's') {
+    document.addEventListener("keypress", ({key}) => {
+        if (key === 's') {
             maybeSkipMedia();
         }
     });
