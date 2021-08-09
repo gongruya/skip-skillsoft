@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  Skip training videos on Skillsoft
 // @author       Ruya Gong
-// @match        https://library.skillport.com/*
+// @match        https://*.skillport.com/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // ==/UserScript==
