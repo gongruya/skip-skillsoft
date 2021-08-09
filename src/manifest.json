@@ -5,7 +5,7 @@
   "manifest_version": 3,
   "content_scripts": [
     {
-      "matches": ["https://library.skillport.com/*"],
+      "matches": ["https://*.skillport.com/*"],
       "js": ["content.js"]
     }
   ]
