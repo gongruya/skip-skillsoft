@@ -1,0 +1,12 @@
+{
+  "name": "Skip Skillport Videos",
+  "description": "A button to skip the training videos on Skillsoft/Skillport",
+  "version": "1.0",
+  "manifest_version": 3,
+  "content_scripts": [
+    {
+      "matches": ["https://library.skillport.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
