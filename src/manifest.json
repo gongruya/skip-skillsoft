@@ -1,6 +1,6 @@
 {
-  "name": "Skip Skillport Videos",
-  "description": "A button to skip the training videos on Skillsoft/Skillport",
+  "name": "Skip Skillsoft Videos",
+  "description": "Skip the training videos on Skillsoft/skillport.com",
   "version": "1.0",
   "manifest_version": 3,
   "content_scripts": [
